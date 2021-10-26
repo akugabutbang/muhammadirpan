@@ -5,9 +5,10 @@
 - 📫 How to reach me ...
 
 contact me:
-t.me/namakuirpan
-instagram.com/m.irpann.s
+- https://t.me/namakuirpan
+- https://instagram.com/m.irpann.s
 
+thanks
 <!---
 muhammadirpan/muhammadirpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

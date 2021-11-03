@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @muhammadirpan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-contact me:
-- https://t.me/namakuirpan
-- https://instagram.com/m.irpann.s
+- 📫 How to reach me:
+   - https://t.me/namakuirpan
+   - https://instagram.com/m.irpann.s
 
 thanks
 <!---
